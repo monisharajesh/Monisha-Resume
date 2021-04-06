@@ -1,0 +1,50 @@
+
+ body{
+    background-image: url(images1.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: scroll;
+     background-position: top right ;
+     padding: 5px;
+ }
+ h1{
+     font-family: 'Times New Roman', Times, serif;
+     color: blue;
+     font-size: large;
+ }
+ h2{
+     text-align: justify;
+ }
+ h3{
+     font-family: 'Times New Roman', Times, serif;
+     font-size:x-large;
+     background-color: gray;
+     text-shadow: black;
+     text-align: justify;
+ }p{
+     font-size: larger;
+ }
+ li{
+     font-size: larger;
+     line-height: 30px;
+ }
+ b{
+     color : blue;
+     font-size: large;
+ }
+ a{
+     color: black
+     font-style: normal;
+ }
+ .class1,.class tr,class td,class th {
+     border: 2px solid rgb(117, 3, 117);
+     border-collapse: collapse;
+     padding: 20px;
+    }
+    .class th{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: larger;
+    }
+    .class td{
+        font-size: large;
+    }
